@@ -1,5 +1,5 @@
 # eShop
-### [Live Site](https://e-shop-store.netlify.app/)
+### [Live Site](https://eshop-storee.netlify.app/)
 
 
 ## Introduction
